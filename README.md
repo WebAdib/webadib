@@ -4,7 +4,12 @@
 </div>
 <p align="center"> (Open for Hiring)</p>
 <!-- ================================================================================================================================================================ -->
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md+Adib+Khan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<!-- ================================================================================================================================================================ -->
 ## Things I use on a daily basis
 
 <p align="left">  
@@ -43,11 +48,7 @@
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
 </picture> -->
 <!-- ================================================================================================================================================================ -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md+Adib+Khan....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+
 <!-- ================================================================================================================================================================ -->
 
 
