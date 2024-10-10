@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 </h1>
+![](https://komarev.com/ghpvc/?username=WebAdib&style=for-the-badge)
 <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>
@@ -38,10 +38,11 @@
 </p>
 
 <!-- ================================================================================================================================================================ -->
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
-</picture>
+</picture> -->
+
 
 
 
