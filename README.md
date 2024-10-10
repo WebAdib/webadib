@@ -42,6 +42,13 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
 </picture> -->
+<!-- ================================================================================================================================================================ -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md+Adib+Khan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<!-- ================================================================================================================================================================ -->
 
 
 
