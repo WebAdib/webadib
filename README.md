@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>
-<p align="center"> (Open for Hiring)</p>
+<p align="center"> Profile Under Development (Open for Hiring)</p>
 <!-- ================================================================================================================================================================ -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
