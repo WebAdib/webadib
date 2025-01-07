@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=WebAdib&style=for-the-badge)
-<div align="center">
+<!-- ================================================================================================================================================================ -->
+<!-- <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>
+-->
 <p align="center"> Profile Under Development (Open for Hiring)</p>
 <hr>
 <!-- ================================================================================================================================================================ -->
