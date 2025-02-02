@@ -21,10 +21,10 @@
   <a href="mailto:webadib@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <!-- ================================================================================================================================================================ -->
-## Things I use on a daily basis
+Things I use on a daily basis
 
 <p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/WebAdib/webadib">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
    <a href="https://github.com/harish-sethuraman/readme-components">
