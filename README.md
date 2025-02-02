@@ -36,14 +36,14 @@ Things I use on a daily basis
   <a href="https://github.com/WebAdib/webadib">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759b">
 </a>
+  <a href="https://github.com/WebAdib/webadib">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=d81f17">
+</a>
 <a href="https://github.com/WebAdib/webadib">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
    <a href="https://github.com/WebAdib/webadib">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/WebAdib/webadib">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&animation=spin&svgfill=2d79c7">
 </a>
  <a href="https://github.com/WebAdib/webadib">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
