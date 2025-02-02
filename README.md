@@ -37,7 +37,7 @@ Things I use on a daily basis
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759b">
 </a>
   <a href="https://github.com/WebAdib/webadib">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=5886a4">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f6851d">
 </a>
 <a href="https://github.com/WebAdib/webadib">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
