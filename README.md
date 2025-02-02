@@ -28,7 +28,13 @@ Things I use on a daily basis
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&animation=pulse&svgfill=2d79c7">
 </a>
   <a href="https://github.com/WebAdib/webadib">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&animation=spin&svgfill=2d79c7">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/WebAdib/webadib">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/WebAdib/webadib">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=2d79c7">
 </a>
 <a href="https://github.com/WebAdib/webadib">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
